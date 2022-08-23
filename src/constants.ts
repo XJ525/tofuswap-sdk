@@ -21,14 +21,14 @@ export enum Rounding {
 }
 
 // mainnet
-export const FACTORY_ADDRESS = '0xc31f30448cb48d0822c0e94573b1fb7671883e09'
+export const FACTORY_ADDRESS = '0x227044d0cd57e257b15c8c3bd5608e241b8b02ca'
 
 export const TOFU_FREEZER_ADDRESS = '0x4B51442c89d2A87480F29A5470FDc3f9619869E1'
 
 // local tests
 //export const INIT_CODE_HASH = '0x67362b6851b5759acb891575dad6796f51c77306b174ae6c6fd05882d9bd1bf3'
 //mainnet
-export const INIT_CODE_HASH = '0x9a276da79c5556bb068dcd272cffa5b6a813c757c1d161722caaf65234be463b'
+export const INIT_CODE_HASH = '0xf18ab5ba2b2ea93d5f80bbf9f1f4b2ccc8ad443571e6a3af023346a5dd669249'
 
 export const MINIMUM_LIQUIDITY = JSBI.BigInt(1000)
 
